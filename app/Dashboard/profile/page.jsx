@@ -79,7 +79,7 @@ export default function ProfilePage() {
           </div>
           <button
             onClick={handleLogout}
-            className="flex items-center cursor-pointer gap-2 px-6 py-2.5 bg-rose-50 text-rose-600 hover:bg-rose-100 rounded-xl font-semibold transition-all border border-rose-100 cursor-pointer"
+            className="flex items-center gap-2 px-6 py-2.5 bg-rose-50 text-rose-600 hover:bg-rose-100 rounded-xl font-semibold transition-all border border-rose-100 cursor-pointer"
           >
             <LogOut className="w-4 h-4" />
             Log Out
