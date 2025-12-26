@@ -1,0 +1,27 @@
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: taskflow@0.1.0
+npm error Found: react@19.2.0
+npm error node_modules/react
+npm error   react@"19.2.0" from the root project
+npm error   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm error   node_modules/next
+npm error     next@"16.0.10" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer react@"^19.2.3" from react-dom@19.2.3
+npm error node_modules/react-dom
+npm error   react-dom@"^19.2.0" from the root project
+npm error   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm error   node_modules/next
+npm error     next@"16.0.10" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\bharg\AppData\Local\npm-cache\_logs\2025-12-26T06_41_34_508Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\bharg\AppData\Local\npm-cache\_logs\2025-12-26T06_41_34_508Z-debug-0.log
